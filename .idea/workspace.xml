@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="85a60fe7-2991-405e-96e2-6b2d804726e4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Challange/Caretaker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Challange/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Challange/Originator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Challange/Memento.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Challange/Memento.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Example/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Example/Client.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,7 +86,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1673873198708</updated>
-      <workItem from="1673873200351" duration="2235000" />
+      <workItem from="1673873200351" duration="3044000" />
     </task>
     <task id="LOCAL-00001" summary="Implementing the memento design patern">
       <created>1673880280241</created>
@@ -105,7 +102,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673880353865</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="It is going to be an simple aplication with simple state data and saved restore points so we can do multiple save points.">
+      <created>1673880985767</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1673880985767</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
